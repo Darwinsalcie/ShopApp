@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ew9eLOOl4lPrepPaV/q7Lkg//6fS20zDfCVLcC7w/NJNsFfKIjo+vNcNH1inxi9CODZIcYIvk5jCA9jh+YtmLA==",
+  "dgSpecHash": "kZkVyGQVDgfaaYnf1YjyjMt1zciZZ19pd6K4KdVNBcQn+fZdljPb+hgUBFJLy5k1ZIuyAPcL5DEL2QJhV14ZrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Académico\\C#\\ITLA\\Nueva carpeta\\Shop.DAL\\ShopApp.DAL.csproj",
+  "projectFilePath": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Académico\\C#\\ITLA\\ShopApp\\Shop.DAL\\ShopApp.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\darwi\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\darwi\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

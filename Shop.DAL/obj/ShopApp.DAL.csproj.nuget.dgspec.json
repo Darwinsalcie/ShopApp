@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\darwi\\OneDrive - Universidad APEC - Académico\\C#\\ITLA\\Nueva carpeta\\Shop.DAL\\ShopApp.DAL.csproj": {}
+    "C:\\Users\\darwi\\OneDrive - Universidad APEC - Académico\\C#\\ITLA\\ShopApp\\Shop.DAL\\ShopApp.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\darwi\\OneDrive - Universidad APEC - Académico\\C#\\ITLA\\Nueva carpeta\\Shop.DAL\\ShopApp.DAL.csproj": {
+    "C:\\Users\\darwi\\OneDrive - Universidad APEC - Académico\\C#\\ITLA\\ShopApp\\Shop.DAL\\ShopApp.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Académico\\C#\\ITLA\\Nueva carpeta\\Shop.DAL\\ShopApp.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Académico\\C#\\ITLA\\ShopApp\\Shop.DAL\\ShopApp.DAL.csproj",
         "projectName": "ShopApp.DAL",
-        "projectPath": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Académico\\C#\\ITLA\\Nueva carpeta\\Shop.DAL\\ShopApp.DAL.csproj",
+        "projectPath": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Académico\\C#\\ITLA\\ShopApp\\Shop.DAL\\ShopApp.DAL.csproj",
         "packagesPath": "C:\\Users\\darwi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Académico\\C#\\ITLA\\Nueva carpeta\\Shop.DAL\\obj\\",
+        "outputPath": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Académico\\C#\\ITLA\\ShopApp\\Shop.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\darwi\\AppData\\Roaming\\NuGet\\NuGet.Config",

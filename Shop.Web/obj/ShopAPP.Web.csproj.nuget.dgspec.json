@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\darwi\\OneDrive - Universidad APEC - Académico\\C#\\ITLA\\Nueva carpeta\\Shop.Web\\ShopAPP.Web.csproj": {}
+    "C:\\Users\\darwi\\OneDrive - Universidad APEC - Académico\\C#\\ITLA\\ShopApp\\Shop.Web\\ShopAPP.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\darwi\\OneDrive - Universidad APEC - Académico\\C#\\ITLA\\Nueva carpeta\\Shop.Web\\ShopAPP.Web.csproj": {
+    "C:\\Users\\darwi\\OneDrive - Universidad APEC - Académico\\C#\\ITLA\\ShopApp\\Shop.Web\\ShopAPP.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Académico\\C#\\ITLA\\Nueva carpeta\\Shop.Web\\ShopAPP.Web.csproj",
+        "projectUniqueName": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Académico\\C#\\ITLA\\ShopApp\\Shop.Web\\ShopAPP.Web.csproj",
         "projectName": "ShopAPP.Web",
-        "projectPath": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Académico\\C#\\ITLA\\Nueva carpeta\\Shop.Web\\ShopAPP.Web.csproj",
+        "projectPath": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Académico\\C#\\ITLA\\ShopApp\\Shop.Web\\ShopAPP.Web.csproj",
         "packagesPath": "C:\\Users\\darwi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Académico\\C#\\ITLA\\Nueva carpeta\\Shop.Web\\obj\\",
+        "outputPath": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Académico\\C#\\ITLA\\ShopApp\\Shop.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\darwi\\AppData\\Roaming\\NuGet\\NuGet.Config",

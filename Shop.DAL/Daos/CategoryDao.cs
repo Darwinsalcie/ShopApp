@@ -1,5 +1,6 @@
 ﻿
 using ShopApp.DAL.Context;
+using ShopApp.DAL.Entities;
 using ShopApp.DAL.Interfaces;
 using ShopApp.DAL.Models.Categories;
 
@@ -13,30 +14,74 @@ namespace ShopApp.DAL.Daos
         {
             this.context = context;
         }
+
         public CategoriesModel GetCategoriesById(int categoryid)
         {
-            throw new NotImplementedException();
+            var category = context.Categories.Find(categoryid);
+            if (category == null)
+                return null;
+
+            return new CategoriesModel
+            {
+                categoryid = category.categoryid,
+                categoryName = category.categoryname,
+                description = category.description
+            };
         }
         public List<CategoriesModel> GetCategories()
         {
-            throw new NotImplementedException();
+            return context.Categories
+                          .Where(cat => !cat.deleted)
+                          .Select(cat => new CategoriesModel
+                          {
+                              categoryid = cat.categoryid,
+                              categoryName = cat.categoryname,
+                              description = cat.description
+                          }).ToList();
         }
-
- 
 
         public void RemoveCategory(CategoriesRemoveModel categoryRemove)
         {
-            throw new NotImplementedException();
+
+            Categories categoryToDelete = this.context.Categories.Find(categoryRemove.categoryid);
+
+
+            categoryToDelete.deleted = categoryRemove.Deleted;
+            categoryToDelete.delete_date = categoryRemove.DeleteDate;
+            categoryToDelete.delete_user = categoryRemove.DeleteUser;
+
+            this.context.Categories.Update(categoryToDelete);
+            this.context.SaveChanges();
+
         }
 
-        public void SaveCategory(CategoriesAddModel categoryAdd)
+        public void SaveCategory(CategoriesAddModel categorySave)
         {
-            throw new NotImplementedException();
+            ArgumentNullException.ThrowIfNull(categorySave, nameof(categorySave));
+
+            Categories category = new()
+            {
+                categoryname = categorySave.categoryName,
+                description = categorySave.description,
+                creation_date = categorySave.creation_date,
+                creation_user = categorySave.creation_user
+            };
+
+            this.context.Categories.Add(category);
+            this.context.SaveChanges();
         }
 
-        public void UpdateCategory(CategoriesUpdateModel categoryUpdate)
+        public void UpdateCategory(CategoriesUpdateModel updateModel)
         {
-            throw new NotImplementedException();
+            Categories CategoryToUpdate = this.context.Categories.Find(updateModel.categoryid);
+
+            CategoryToUpdate.categoryname = updateModel.categoryName;
+            CategoryToUpdate.description = updateModel.description;
+            CategoryToUpdate.modify_date = updateModel.ModifyDate;
+            CategoryToUpdate.modify_user = updateModel.ModifyUser;
+
+            this.context.Categories.Update(CategoryToUpdate);
+            this.context.SaveChanges();
         }
     }
 }

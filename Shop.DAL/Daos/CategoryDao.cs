@@ -17,16 +17,10 @@ namespace ShopApp.DAL.Daos
 
         public CategoriesModel GetCategoriesById(int categoryid)
         {
-            var category = context.Categories.Find(categoryid);
-            if (category == null)
-                return null;
+            CategoriesModel model = new CategoriesModel();
 
-            return new CategoriesModel
-            {
-                categoryid = category.categoryid,
-                categoryName = category.categoryname,
-                description = category.description
-            };
+            var category = this.context.Categories.Find(categoryid);
+            return model;
         }
         public List<CategoriesModel> GetCategories()
         {

@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2484D790-80ED-45A2-9FF5-02F706EDCED6}|Shop.Web\\ShopAPP.Web.csproj|c:\\users\\darwi\\onedrive - universidad apec - acad\u00E9mico\\c#\\itla\\shopapp\\shop.web\\controllers\\categoriescontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2484D790-80ED-45A2-9FF5-02F706EDCED6}|Shop.Web\\ShopAPP.Web.csproj|solutionrelative:shop.web\\controllers\\categoriescontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2484D790-80ED-45A2-9FF5-02F706EDCED6}|Shop.Web\\ShopAPP.Web.csproj|c:\\users\\darwi\\onedrive - universidad apec - acad\u00E9mico\\c#\\itla\\shopapp\\shop.web\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2484D790-80ED-45A2-9FF5-02F706EDCED6}|Shop.Web\\ShopAPP.Web.csproj|solutionrelative:shop.web\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2484D790-80ED-45A2-9FF5-02F706EDCED6}|Shop.Web\\ShopAPP.Web.csproj|c:\\users\\darwi\\onedrive - universidad apec - acad\u00E9mico\\c#\\itla\\shopapp\\shop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2484D790-80ED-45A2-9FF5-02F706EDCED6}|Shop.Web\\ShopAPP.Web.csproj|solutionrelative:shop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2484D790-80ED-45A2-9FF5-02F706EDCED6}|Shop.Web\\ShopAPP.Web.csproj|c:\\users\\darwi\\onedrive - universidad apec - acad\u00E9mico\\c#\\itla\\shopapp\\shop.web\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2484D790-80ED-45A2-9FF5-02F706EDCED6}|Shop.Web\\ShopAPP.Web.csproj|solutionrelative:shop.web\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF4A019-DAA7-4952-A324-761B1B3CE0F9}|Shop.DAL\\ShopApp.DAL.csproj|c:\\users\\darwi\\onedrive - universidad apec - acad\u00E9mico\\c#\\itla\\shopapp\\shop.dal\\models\\categories\\categoriesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF4A019-DAA7-4952-A324-761B1B3CE0F9}|Shop.DAL\\ShopApp.DAL.csproj|solutionrelative:shop.dal\\models\\categories\\categoriesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF4A019-DAA7-4952-A324-761B1B3CE0F9}|Shop.DAL\\ShopApp.DAL.csproj|c:\\users\\darwi\\onedrive - universidad apec - acad\u00E9mico\\c#\\itla\\shopapp\\shop.dal\\context\\shoppappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF4A019-DAA7-4952-A324-761B1B3CE0F9}|Shop.DAL\\ShopApp.DAL.csproj|solutionrelative:shop.dal\\context\\shoppappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2484D790-80ED-45A2-9FF5-02F706EDCED6}|Shop.Web\\ShopAPP.Web.csproj|c:\\users\\darwi\\onedrive - universidad apec - acad\u00E9mico\\c#\\itla\\shopapp\\shop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2484D790-80ED-45A2-9FF5-02F706EDCED6}|Shop.Web\\ShopAPP.Web.csproj|solutionrelative:shop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +38,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Shop.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Shop.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAA0AAAA",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.Web\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shop.Web\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.Web\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Shop.Web\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-19T21:50:25.847Z",
+              "WhenOpened": "2024-06-20T05:08:30.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoriesController1.cs",
-              "DocumentMoniker": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.Web\\Controllers\\CategoriesController1.cs",
-              "RelativeDocumentMoniker": "Shop.Web\\Controllers\\CategoriesController1.cs",
-              "ToolTip": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.Web\\Controllers\\CategoriesController1.cs",
-              "RelativeToolTip": "Shop.Web\\Controllers\\CategoriesController1.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "DocumentIndex": 2,
+              "Title": "CategoriesModel.cs",
+              "DocumentMoniker": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.DAL\\Models\\Categories\\CategoriesModel.cs",
+              "RelativeDocumentMoniker": "Shop.DAL\\Models\\Categories\\CategoriesModel.cs",
+              "ToolTip": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.DAL\\Models\\Categories\\CategoriesModel.cs",
+              "RelativeToolTip": "Shop.DAL\\Models\\Categories\\CategoriesModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T20:49:36.207Z",
+              "WhenOpened": "2024-06-20T04:58:22.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.Web\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Shop.Web\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.Web\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Shop.Web\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T04:05:56.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoppAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.DAL\\Context\\ShoppAppContext.cs",
+              "RelativeDocumentMoniker": "Shop.DAL\\Context\\ShoppAppContext.cs",
+              "ToolTip": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.DAL\\Context\\ShoppAppContext.cs",
+              "RelativeToolTip": "Shop.DAL\\Context\\ShoppAppContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T04:19:27.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Shop.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.Web\\Program.cs",
+              "RelativeToolTip": "Shop.Web\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T04:05:22.793Z",
               "EditorCaption": ""
             }
           ]

@@ -4,16 +4,16 @@ using ShopApp.DAL.Interfaces;
 
 namespace ShopAPP.Web.Controllers
 {
-    public class CategoriesController1 : Controller
+    public class CategoriesController : Controller
     {
         private readonly ICategoriesDb categoryDb;
 
-        public CategoriesController1(ICategoriesDb categoryDb) 
+        public CategoriesController(ICategoriesDb categoryDb) 
         {
             this.categoryDb = categoryDb;
         }
         
-        // GET: CategoriesController1
+        // GET: CategoriesController
         public ActionResult Index()
         {
             var categories = categoryDb.GetCategories();
@@ -54,7 +54,7 @@ namespace ShopAPP.Web.Controllers
             return View();
         }
 
-        // POST: CategoriesController1/Edit/5
+        // POST: CategoriesController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Edit(int id, IFormCollection collection)

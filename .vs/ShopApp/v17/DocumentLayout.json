@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2484D790-80ED-45A2-9FF5-02F706EDCED6}|Shop.Web\\ShopAPP.Web.csproj|c:\\users\\darwi\\onedrive - universidad apec - acad\u00E9mico\\c#\\itla\\shopapp\\shop.web\\controllers\\categoriescontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2484D790-80ED-45A2-9FF5-02F706EDCED6}|Shop.Web\\ShopAPP.Web.csproj|solutionrelative:shop.web\\controllers\\categoriescontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2484D790-80ED-45A2-9FF5-02F706EDCED6}|Shop.Web\\ShopAPP.Web.csproj|c:\\users\\darwi\\onedrive - universidad apec - acad\u00E9mico\\c#\\itla\\shopapp\\shop.web\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2484D790-80ED-45A2-9FF5-02F706EDCED6}|Shop.Web\\ShopAPP.Web.csproj|solutionrelative:shop.web\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2484D790-80ED-45A2-9FF5-02F706EDCED6}|Shop.Web\\ShopAPP.Web.csproj|c:\\users\\darwi\\onedrive - universidad apec - acad\u00E9mico\\c#\\itla\\shopapp\\shop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2484D790-80ED-45A2-9FF5-02F706EDCED6}|Shop.Web\\ShopAPP.Web.csproj|solutionrelative:shop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2484D790-80ED-45A2-9FF5-02F706EDCED6}|Shop.Web\\ShopAPP.Web.csproj|c:\\users\\darwi\\onedrive - universidad apec - acad\u00E9mico\\c#\\itla\\shopapp\\shop.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2484D790-80ED-45A2-9FF5-02F706EDCED6}|Shop.Web\\ShopAPP.Web.csproj|solutionrelative:shop.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2484D790-80ED-45A2-9FF5-02F706EDCED6}|Shop.Web\\ShopAPP.Web.csproj|c:\\users\\darwi\\onedrive - universidad apec - acad\u00E9mico\\c#\\itla\\shopapp\\shop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2484D790-80ED-45A2-9FF5-02F706EDCED6}|Shop.Web\\ShopAPP.Web.csproj|solutionrelative:shop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DF4A019-DAA7-4952-A324-761B1B3CE0F9}|Shop.DAL\\ShopApp.DAL.csproj|c:\\users\\darwi\\onedrive - universidad apec - acad\u00E9mico\\c#\\itla\\shopapp\\shop.dal\\core\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DF4A019-DAA7-4952-A324-761B1B3CE0F9}|Shop.DAL\\ShopApp.DAL.csproj|solutionrelative:shop.dal\\core\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DF4A019-DAA7-4952-A324-761B1B3CE0F9}|Shop.DAL\\ShopApp.DAL.csproj|c:\\users\\darwi\\onedrive - universidad apec - acad\u00E9mico\\c#\\itla\\shopapp\\shop.dal\\daos\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DF4A019-DAA7-4952-A324-761B1B3CE0F9}|Shop.DAL\\ShopApp.DAL.csproj|solutionrelative:shop.dal\\daos\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2484D790-80ED-45A2-9FF5-02F706EDCED6}|Shop.Web\\ShopAPP.Web.csproj|c:\\users\\darwi\\onedrive - universidad apec - acad\u00E9mico\\c#\\itla\\shopapp\\shop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -52,82 +36,36 @@
               "RelativeDocumentMoniker": "Shop.Web\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Shop.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAABeAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAABgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-19T21:50:25.847Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoriesController1.cs",
-              "DocumentMoniker": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.Web\\Controllers\\CategoriesController1.cs",
-              "RelativeDocumentMoniker": "Shop.Web\\Controllers\\CategoriesController1.cs",
-              "ToolTip": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.Web\\Controllers\\CategoriesController1.cs",
-              "RelativeToolTip": "Shop.Web\\Controllers\\CategoriesController1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T20:49:36.207Z",
+              "WhenOpened": "2024-06-20T00:52:31.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.Web\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Shop.Web\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.Web\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Shop.Web\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:44:44.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.Web\\Program.cs",
               "RelativeDocumentMoniker": "Shop.Web\\Program.cs",
               "ToolTip": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.Web\\Program.cs",
               "RelativeToolTip": "Shop.Web\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T12:33:06.359Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.DAL\\Core\\Person.cs",
-              "RelativeDocumentMoniker": "Shop.DAL\\Core\\Person.cs",
-              "ToolTip": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.DAL\\Core\\Person.cs",
-              "RelativeToolTip": "Shop.DAL\\Core\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T20:37:55.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryDao.cs",
-              "DocumentMoniker": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.DAL\\Daos\\CategoryDao.cs",
-              "RelativeDocumentMoniker": "Shop.DAL\\Daos\\CategoryDao.cs",
-              "ToolTip": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.DAL\\Daos\\CategoryDao.cs",
-              "RelativeToolTip": "Shop.DAL\\Daos\\CategoryDao.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAkwCoAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T19:46:28.699Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "Shop.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.Web\\appsettings.json",
-              "RelativeToolTip": "Shop.Web\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-19T11:47:14.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.Web\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Shop.Web\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\ShopApp\\Shop.Web\\appsettings.Development.json",
-              "RelativeToolTip": "Shop.Web\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-19T11:47:08.234Z"
+              "WhenOpened": "2024-06-20T00:43:57.016Z",
+              "EditorCaption": ""
             }
           ]
         }

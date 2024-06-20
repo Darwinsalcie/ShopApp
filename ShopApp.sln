@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopApp.DAL", "Shop.DAL\ShopApp.DAL.csproj", "{2DF4A019-DAA7-4952-A324-761B1B3CE0F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopApp.DAL", "Shop.DAL\ShopApp.DAL.csproj", "{2DF4A019-DAA7-4952-A324-761B1B3CE0F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopAPP.Web", "Shop.Web\ShopAPP.Web.csproj", "{2484D790-80ED-45A2-9FF5-02F706EDCED6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopAPP.Web", "Shop.Web\ShopAPP.Web.csproj", "{2484D790-80ED-45A2-9FF5-02F706EDCED6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ShopApp.DAL.Interfaces;
+using ShopApp.DAL.Models.Categories;
 
 namespace ShopAPP.Web.Controllers
 {
@@ -24,7 +25,8 @@ namespace ShopAPP.Web.Controllers
         // GET: CategoriesController1/Details/5
         public ActionResult Details(int id)
         {
-            return View();
+            var category =this.categoryDb.GetCategoriesById(id);
+            return View(category);
         }
 
         // GET: CategoriesController1/Create
@@ -36,10 +38,14 @@ namespace ShopAPP.Web.Controllers
         // POST: CategoriesController1/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public ActionResult Create(CategoriesAddModel addModel)
         {
             try
             {
+                addModel.creation_date = DateTime.Now;
+                addModel.creation_user = 1;
+                this.categoryDb.SaveCategory(addModel);
+
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -51,16 +57,21 @@ namespace ShopAPP.Web.Controllers
         // GET: CategoriesController1/Edit/5
         public ActionResult Edit(int id)
         {
-            return View();
+            var category = this.categoryDb.GetCategoriesById(id);
+            return View(category);
         }
 
         // POST: CategoriesController1/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public ActionResult Edit(CategoriesUpdateModel updateModel)
         {
             try
             {
+                updateModel.ModifyDate = DateTime.Now;
+                updateModel.ModifyUser = 1;
+
+                this.categoryDb.UpdateCategory(updateModel);
                 return RedirectToAction(nameof(Index));
             }
             catch

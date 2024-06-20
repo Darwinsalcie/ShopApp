@@ -17,9 +17,18 @@ namespace ShopApp.DAL.Daos
 
         public CategoriesModel GetCategoriesById(int categoryid)
         {
-            CategoriesModel model = new CategoriesModel();
 
             var category = this.context.Categories.Find(categoryid);
+
+            CategoriesModel model = new CategoriesModel()
+            {
+                categoryid = category.categoryid,
+                categoryName = category.categoryname,
+                description = category.description
+
+            };
+
+
             return model;
         }
         public List<CategoriesModel> GetCategories()

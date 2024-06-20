@@ -16,7 +16,7 @@ namespace ShopAPP.Web.Controllers
         // GET: CategoriesController1
         public ActionResult Index()
         {
-            var categories = categoryDb.GetCategories;
+            var categories = categoryDb.GetCategories();
 
             return View(categories);
         }
